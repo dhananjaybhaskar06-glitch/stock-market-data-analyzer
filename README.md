@@ -91,7 +91,7 @@ Stock-Market-Data-Analyzer/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/your-username/stock-market-data-analyzer.git
+git clone https://github.com/dhananjaybhaskar06-glitch/stock-market-data-analyzer
 cd stock-market-data-analyzer
 
 ---
