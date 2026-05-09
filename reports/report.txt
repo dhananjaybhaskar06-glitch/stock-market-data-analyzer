@@ -1,0 +1,11 @@
+
+Stock Report
+Ticker: AAPL
+
+Highest: Ticker
+AAPL    258.686851
+dtype: float64
+Lowest: Ticker
+AAPL    162.600216
+dtype: float64
+Volatility: 0.014123088794935193
